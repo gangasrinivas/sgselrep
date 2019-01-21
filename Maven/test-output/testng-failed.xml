@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Maven]">
+  <test name="Tests Extends Base tests(failed)">
+    <classes>
+      <class name="com.selenium.core.ddf.testcases.DummyTests">
+        <methods>
+          <include name="TestA"/>
+        </methods>
+      </class> <!-- com.selenium.core.ddf.testcases.DummyTests -->
+    </classes>
+  </test> <!-- Tests Extends Base tests(failed) -->
+</suite> <!-- Failed suite [Maven] -->
